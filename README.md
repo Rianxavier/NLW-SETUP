@@ -33,10 +33,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que ajuda a pessoa a organizar melhor os seus hábitos.
 
+- [Visite o projeto online](https://rianxavier.github.io/NLW-SETUP)
+
 ## 📋 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter a conta no [Figma](https://www.figma.com) para acessá-lo
 
 ## :memo: Licença
 
-Esse projeto está sob  a licença MIT.
+Esse projeto está sob a licença MIT.
